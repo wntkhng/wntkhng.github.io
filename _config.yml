@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "1의 생각"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "나의 생각들을 정리하여 모아놓음"
 url                      : "https://wntkhng.github.io"
 baseurl                  : # "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -60,10 +60,10 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
 search                   : true
-search_full_content      : true
+search_full_content      : false
 search_provider          : # lunr (default), algolia, google
 lunr:
-  search_within_pages    : true
+  search_within_pages    : false
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Weontack Hong"
+  name             : "One"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : " "
   location         : "Seoul"
-  email            :
+  email            : "wntk.hng@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
