@@ -5,13 +5,13 @@ title: "[요약] How Superhuman Built an Engine to Find Product Market Fit"
 
 이 포스팅은 [First Round Reivew](https://review.firstround.com/)의 [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit)를 요약한 내용을 담고 있습니다. 원문과 다른 내용이 있을 수 있으며, 수정에 대한 의견은 언제나 환영합니다. 
 
-### Superhuman?
+## Superhuman?
 
 - 사용 신청자를 대상으로 한 메일 서비스
 - 사전 서베이, 면접, 높은 가격 등 사용자를 필터링하는 독특한 서비스
 - 빠른 메일 정리, 단축키 사용 등이 핵심 기능
 
-### Superhuman이 PMF를 찾게 된 계기?
+## Superhuman이 PMF를 찾게 된 계기?
 
 - 2년 간 초기 서비스 개발
     - 2015년부터 2017년 여름까지
@@ -24,7 +24,7 @@ title: "[요약] How Superhuman Built an Engine to Find Product Market Fit"
     - 만약 PMF를 측정할 수 있다면?
     - 만약 PMF의 달성 가능성을 단계적으로 높일 수 있는 방법이 있다면?
 
-### 우리 제품이 현재 PMF를 달성했는지 여부를 알 수 있는 방법 (Leading Indicator for PMF)
+## 우리 제품이 현재 PMF를 달성했는지 여부를 알 수 있는 방법 (Leading Indicator for PMF)
 
 - Sean Ellis의 Magic Number
     - 질문 **“How would you feel if you could no longer use the product?”(만약 당신이 이 제품을 더 이상 사용하지 못한다면 어떨 것 같습니까?)**에 대해,
@@ -47,7 +47,7 @@ title: "[요약] How Superhuman Built an Engine to Find Product Market Fit"
 - 우리 제품의 PMF 달성 가능성을 상승시킬 수 있는 방법 (4 Steps for Optimizing PMF)
 - 모든 방법은 첫 PMF 서베이를 기반으로 진행한다.
 
-### Step 1. **우리의 제품을 지지하는 사람들을 찾고, 높은 기대감을 가진 고객(High-Expectation Customer)을 정의해라.**
+## Step 1. **우리의 제품을 지지하는 사람들을 찾고, 높은 기대감을 가진 고객(High-Expectation Customer)을 정의해라.**
 
 1. **우리 제품을 지지하는 사용자 특정하기**
 - 사용자의 범위가 넓을 수록, 해당 사용자로부터 제품에 대한 정확한 의견을 얻는 것은 어렵다.
@@ -77,7 +77,7 @@ title: "[요약] How Superhuman Built an Engine to Find Product Market Fit"
     - 소수의 사용자가 원하는 기능들은 많고 다양하기 때문에, 다른 경쟁자가 생각하지 않을 가능성이 높다. 따라서 그 아이디어 속에서 성공의 기회를 발견할 수 있을지도 모른다.
     - 이러한 종류의 아이디어들이 모두 성공적인 스타트업을 위한 아이디어는 아닐 수 있지만, 이미 성공한 스타트업의 아이디어들은 모두 그러하다.
 
-### Step 2. 애매한 반응을 보이는 사용자를 긍정적인 사용자로 전환하기 위한 피드백 분석
+## Step 2. 애매한 반응을 보이는 사용자를 긍정적인 사용자로 전환하기 위한 피드백 분석
 
 - “매우 아쉬울 것이다.” 사용자 그룹은 왜 우리의 서비스를 좋아할까?
 - 어떻게 이 그룹으로 더 많은 사용자를 끌어들일 수 있을까?
@@ -106,7 +106,7 @@ title: "[요약] How Superhuman Built an Engine to Find Product Market Fit"
     
     
 
-### Step 3. “제품을 좋아하는 사용자를 위한” vs. “떠나려는 사용자를 붙잡기 위한” 제품 개발 방향성의 균형을 위한 로드맵 구축
+## Step 3. “제품을 좋아하는 사용자를 위한” vs. “떠나려는 사용자를 붙잡기 위한” 제품 개발 방향성의 균형을 위한 로드맵 구축
 
 - 만약 제품을 좋아하는 사용자만을 위해 제품을 만든다면, 40%라는 PMF 점수를 달성하기 힘들 것이다.
 - 만약 떠나려는 사용자를 붙잡기 위해서만 제품을 만든다면, 다른 경쟁자에 의해 따라잡힐 것이다.
@@ -138,7 +138,7 @@ title: "[요약] How Superhuman Built an Engine to Find Product Market Fit"
         4. high cost, low impact
         
 
-### Step 4. 앞의 프로세스 반복 및 PMF 점수를 가장 중요한 척도로 삼기
+## Step 4. 앞의 프로세스 반복 및 PMF 점수를 가장 중요한 척도로 삼기
 
 - 새로운 사용자에게 계속해서 PMF survey 진행
     - 하지만, 같은 사용자에게 두 번 이상 서베이 진행하지 않도록 유의
