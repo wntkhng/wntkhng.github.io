@@ -5,7 +5,7 @@ title: "[요약] The only thing that matters by Marc Andreessen"
 
 이 포스팅은 [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen)의 [The only thing that matters](https://fictivekin.github.io/pmarchive-jekyll//guide_to_startups_part4)를 요약한 내용을 담고 있습니다. 원문과 다른 내용이 있을 수 있으며, 수정에 대한 의견은 언제나 환영합니다. 
 
-### 스타트업의 성공에 필요한 것은 무엇인가?
+## 스타트업의 성공에 필요한 것은 무엇인가?
 
 - 팀: from outstanding to remarkably flawed
 - 제품: from masterpiece of engineering to barely functional
@@ -13,12 +13,12 @@ title: "[요약] The only thing that matters by Marc Andreessen"
 - 이 세가지 요소 중 어느 것이 가장 성공하는 것에 중요한 영향을 미칠까?
 - 혹은, 어떤 요소가 가장 위험하게 작용할까?
 
-### 팀의 역량
+## 팀의 역량
 
 - 기회가 왔을 때, 어떤 방식으로 일을 처리하는가?
 - 경험보다 효율성을 더 중요시 → “전에 해본 적 없는” 것들을 시도하는 팀이 성공적인 이유
 
-### 제품의 질
+## 제품의 질
 
 - 소비자, 사용자에게 얼마나 깊은 감명을 주는가?
 - 얼마나 사용하기 쉬운가?
@@ -29,23 +29,23 @@ title: "[요약] The only thing that matters by Marc Andreessen"
 - 버그는 얼마나 많은가?
 - *제품의 질은 소비자가 얼마나 사용하고 싶어하는지 매력적인 것과는 상관없다. 제품의 질과 시장의 규모는 다른 요소이다. 구분지어 생각해야한다.
 
-### 시장의 규모
+## 시장의 규모
 
 - 제품의 소비자, 혹은 사용자가 얼마나 되는가?
 - 그 수가 얼마나 빠른 속도로 증가하고 있는가?
 
-### 기업가, VC: “팀이 중요하다.”는 관점
+## 기업가, VC: “팀이 중요하다.”는 관점
 
 - 제품이 이미 빌드된 초기 스타트업은 거의 없고, 대부분 팀을 구축하는 단계부터 시작한다.
     - 따라서 제품에 대해 아는 것 보다는 팀에 대해 아는 것이 더 많다.
 - “사람이 우리의 가장 중요한 자산이다.”라는 학습된 슬로건
 
-### 엔지니어: “제품이 중요하다.”는 관점
+## 엔지니어: “제품이 중요하다.”는 관점
 
 - 스타트업은 제품 비즈니스를 진행한다. 제품 없이는 기업도 없다.
 - Apple과 Google이 성공한 이유는 최고의 제품을 만들었기 때문이다.
 
-### 글쓴이의 관점: “시장이 중요하다.”
+## 글쓴이의 관점: “시장이 중요하다.”
 
 - 이유: 진짜 잠재고객이 많은 시장은 스타트업에서 제품을 끌어낸다.
     - MVP(Minimum Viable Product)는 대단할 필요가 없다. 그저 동작하면 된다. 또한 사용자는 그 제품을 제작한 팀이 누구인가는 중요하게 생각하지 않는다.
@@ -53,7 +53,7 @@ title: "[요약] The only thing that matters by Marc Andreessen"
     - 만약 당신이 좋은 시장을 발견하게 된다면, 팀과 제품이 업그레이드되는 것은 시간 문제이다.
 - 반면, 끔찍한 시장에서는 아무리 당신이 대단한 제품을 가지고 있고 멋진 팀과 함께 일한다고 하더라도, 실패할 것이다.
 
-### Andy Rachleff’s Law of Startup Success: the #1 company-killer is lack of market
+## Andy Rachleff’s Law of Startup Success: the #1 company-killer is lack of market
 
 - 훌륭한 팀이 형편없는 시장을 만나면, 시장이 이긴다.
 - 형편없는 팀이 형편없는 시장을 만나도, 시장이 이긴다.
@@ -61,7 +61,7 @@ title: "[요약] The only thing that matters by Marc Andreessen"
 - 좋은 시장에서는 기본적인 제품과 기본적인 역량을 갖춘 팀만 있어도 성공할 수 있다.
 - 나쁜 시장에서는 훌륭한 제품과 뛰어난 팀을 갖춰도 실패한다.
 
-### 첫번째 질문: 팀은 가장 먼저 통제할 수 있는 요소이고, 모두가 좋은 팀을 얻기를 바란다. 실제로 당신이 얻을 팀은 무엇을 하기를 바라는가?
+## 첫번째 질문: 팀은 가장 먼저 통제할 수 있는 요소이고, 모두가 좋은 팀을 얻기를 바란다. 실제로 당신이 얻을 팀은 무엇을 하기를 바라는가?
 
 - 팀과 제품의 관계:
     - 좋은 팀은 적어도 OK product를 만들어낸다. (Great Product를 만드는 것은 정말 어려운 일이다.)
@@ -72,13 +72,13 @@ title: "[요약] The only thing that matters by Marc Andreessen"
     - 투자는 많이 받을 수 있을 지 몰라도, 실제로 만드는 제품이 시장을 겨냥하고 있지는 않은 경우가 많기 때문에
 - ”A great team is a team that will always beat a mediocre team, given the same market and product.”
 
-### 두번째 질문: 훌륭한 제품이 거대한 새로운 시장을 만들어 낼 수는 없는가?
+## 두번째 질문: 훌륭한 제품이 거대한 새로운 시장을 만들어 낼 수는 없는가?
 
 - 할 수 있다. 매우매우 드물뿐
     - VMWare
 - 하지만 나는 새로운 시장을 바닥부터 만들어나가는 제품에 베팅하지는 않을 것이다.
 
-### 세번째 질문: 스타트업 창업자로서, 이 모든 내용에 관해 나는 뭐부터 해야할까요?
+## 세번째 질문: 스타트업 창업자로서, 이 모든 내용에 관해 나는 뭐부터 해야할까요?
 
 - **“The only thing that matters is getting to product/market fit.”**
 - Product/market fit이란?
@@ -97,7 +97,7 @@ title: "[요약] The only thing that matters by Marc Andreessen"
     - 회사 잔고에 돈이 계속해서 쌓인다.
     - 언론은 계속해서 당신의 제품에 대해 이야기하고 싶어한다.
 
-### 질문들
+## 질문들
 
 - 제품의 출시 직후 PMF가 맞지 않는 다는 것을 알았다면, 그 이후 어떻게 PMF에 도달할 수 있나요?
 - 어떻게 시장의 사이즈와 퀄리티를 평가할 수 있나요? 특히 만약 그 시장이 완전히 형성되지 않았다면?
