@@ -3,7 +3,7 @@ layout: single
 title: "[요약] The only thing that matters by Marc Andreessen"
 ---
 
-이 포스팅은 [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen)의 [The only thing that matters](https://fictivekin.github.io/pmarchive-jekyll//guide_to_startups_part4)를 요약한 내용을 담고 있습니다. 원문과 다른 내용이 있을 수 있으며, 수정에 대한 의견은 언제나 환영합니다. 
+> 이 포스팅은 [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen)의 [The only thing that matters](https://fictivekin.github.io/pmarchive-jekyll//guide_to_startups_part4)를 요약한 내용을 담고 있습니다. 원문과 다른 내용이 있을 수 있으며, 수정에 대한 의견은 언제나 환영합니다. 
 
 ## 스타트업의 성공에 필요한 것은 무엇인가?
 
