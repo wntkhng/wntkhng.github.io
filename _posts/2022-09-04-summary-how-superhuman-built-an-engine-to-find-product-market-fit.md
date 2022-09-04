@@ -3,7 +3,8 @@ layout: single
 title: "[요약] How Superhuman Built an Engine to Find Product Market Fit"
 ---
 
-이 포스팅은 [First Round Reivew](https://review.firstround.com/)의 [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit)를 요약한 내용을 담고 있습니다. 원문과 다른 내용이 있을 수 있으며, 수정에 대한 의견은 언제나 환영합니다. 
+> 이 포스팅은 [First Round Reivew](https://review.firstround.com/)의 [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit)를 요약한 내용을 담고 있습니다. 원문과 다른 내용이 있을 수 있으며, 수정에 대한 의견은 언제나 환영합니다.
+
 
 ## Superhuman?
 
